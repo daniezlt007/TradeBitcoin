@@ -1,3 +1,4 @@
+Criado por Rogério Pereira
 # TradeBitcoin
 Inicialização de Projeto para Trade de BTC e outras Criptos
 Efetua a consulta da API da https://coinmarketcap.com/ e faz a criação de um arquivo csv, onde poderá ser feito a visualização dos
